@@ -13,5 +13,5 @@
 ![activity pembuatan kwitansi](https://github.com/muhammadzidanfadilah/Tugas_Analisa_Kebutuhan_Sistem_Diagram_Activity_Pertemuan12/assets/115553474/06f9b2b7-5857-417f-87e5-78b3f7cef11d)
 
 # pembuatan laporan]
-![activity pembuatan kwitansi](https://github.com/muhammadzidanfadilah/Tugas_Analisa_Kebutuhan_Sistem_Diagram_Activity_Pertemuan12/assets/115553474/9ead9d32-027d-4a68-8c9b-d3e97acd6eef)
+![344446323-7d5aeaa1-622a-43f9-a416-8f5fa5579a49](https://github.com/muhammadzidanfadilah/Tugas_Analisa_Kebutuhan_Sistem_Diagram_Activity_Pertemuan12/assets/115553474/0a0fe588-a836-4b0d-a140-19a567123108)
 
